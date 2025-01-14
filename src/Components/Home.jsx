@@ -4,6 +4,8 @@ import img from '../assets/OBJECTS.png';
 import jigsaw from '../assets/online-test.png';
 import exam from '../assets/exam1.png'
 import certificate from '../assets/certification1.png';
+
+
 const Home = () => {
   const cardData = [
     {

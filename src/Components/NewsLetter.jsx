@@ -21,10 +21,13 @@ const NewsLetter = () => {
                     </div>
                 </Col>
             </Row>
-        </Container>
+        </Container>    
         </section>
 
     )
 }
 
 export default NewsLetter
+
+
+

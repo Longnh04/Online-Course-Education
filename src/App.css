@@ -176,6 +176,10 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* font style */
+  font-family: "Roboto", serif;
+  font-weight: 2000;
+  font-style: normal;
 }
 .nav-container .logo {
   width: 150px;

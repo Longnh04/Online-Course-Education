@@ -55,7 +55,7 @@ const Footer = () => {
         </Container>
         <div className="text-center border-top">
             <p className='mt-1'>Copyright @{new Date().getFullYear()} Code-with-react All Rights Reserved</p>
-        </div>
+        </div>   
        </footer>
     </>
   )

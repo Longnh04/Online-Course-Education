@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react'
-import Logo from '../assets/Logo1.png'
+import Logo from '../assets/bitc logo.png'
 import { NavLink } from 'react-bootstrap';
 import { navLinks, navRight } from '../Data/Data';
 import { VscMenu } from 'react-icons/vsc';
@@ -24,7 +24,7 @@ const Header = () => {
             <nav>
                 <div className="container nav-container">
                     <div className="logo">
-                        <img src={Logo} alt="Logo" className='w-100' />
+                        <img src={Logo} alt="Logo" className='w-100'/>
                     </div>
                     <ul className={`nav-links ${isNavLinkShowing ? 'navLinksShow' : 'navLinksHide'}`}>
                         {navLinks.map(({ name, path }, index) => (

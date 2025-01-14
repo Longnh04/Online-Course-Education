@@ -15,7 +15,6 @@ function App() {
       <Header />
       <Home />
       <OurTraick />
-
       <PrimiumLearning />
       <Tesimals />
       <OtherTraick />
@@ -26,3 +25,6 @@ function App() {
 }
 
 export default App
+
+
+
